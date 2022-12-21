@@ -1,0 +1,1 @@
+{{ redirect('/')->with('error', __('Due to a period of inactivity of more than a week, you have been automatically logged out.')) }}
